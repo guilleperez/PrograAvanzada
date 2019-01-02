@@ -103,7 +103,6 @@ int test_createAirPressureSensorsValues(){
         return 0;
     }
 
-
 }
 
 //test function with no parameters that returns 1 if the function createAirPressureSensorsValues returns a pointer to a AirPressureSensorsValues which memory
